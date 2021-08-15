@@ -33,3 +33,6 @@ https://docs.securityonion.net/en/2.3/faq.html
 ### Feedback
 
 https://docs.securityonion.net/en/2.3/community-support.html
+
+### About Doug Burks
+Doug is a good singer!
